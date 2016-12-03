@@ -1,3 +1,3 @@
 <?php 
-echo'Today is 12.3rd';
+echo'Today is 3.Dec';
 ?>
